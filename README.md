@@ -12,10 +12,10 @@ A simple e-commerce product list app built with React Native, Redux Toolkit, and
 ## Requirements
 
 - Node.js
-- npm or yarn
-- React Native CLI
-- Xcode (for iOS)
-- Android Studio (for Android)
+- yarn
+- React Native
+- typescript
+- redux toolkit
 
 ## Installation
 
